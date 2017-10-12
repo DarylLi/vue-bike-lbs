@@ -6,7 +6,7 @@ this project is for Operation Maintenance of Bicycle Sharing service.
 
 eg:it could show the position of the bicycle, the warning area, and the target of one engineer who will transfer the bicycle to another place.
 
-##screen shot
+## screen shot
 
 ![image](https://raw.githubusercontent.com/DarylLi/vue-bike-lbs/master/demo/lbs-bike.png)
 
@@ -14,8 +14,8 @@ eg:it could show the position of the bicycle, the warning area, and the target o
 $ npm install
 $ npm run dev # serve examples at localhost:80
 
-##building:
+## building:
 $ npm run build
 ```
 
-###highlight: open it in cellphone or dev tools cellphone device mode.
+### highlight: open it in cellphone or dev tools cellphone device mode.
