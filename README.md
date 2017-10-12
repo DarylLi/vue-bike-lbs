@@ -15,9 +15,8 @@ $ npm install
 
 $ npm run dev # serve examples at localhost:80
 
-### building:
+### building
 $ npm run build
-```
 
 ## highlight
 open it in cellphone or dev tools cellphone device mode.
