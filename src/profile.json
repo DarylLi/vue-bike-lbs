@@ -1,0 +1,23 @@
+{
+  "result": {
+    "currentMonthExpectIncome": 1173919856,
+    "drawAmount": 429899743.33,
+    "drawTotal": 0.6687403258169277,
+    "giftTotal": 711085347,
+    "headimgurl": "headimgurl",
+    "invitationCount": 896781993,
+    "invitationProfitTotal": 1643389599,
+    "isPartner": "isPartner",
+    "lastMonthExpectIncome": 576372021,
+    "nickname": "nickname",
+    "todayExpectIncome": 31954305.2,
+    "todaySubOrderNum": 1254813657,
+    "todaySubPaidNum": 58590904,
+    "userId": 2912269712399897600,
+    "yesterdayExpectIncome": 1585942563,
+    "yesterdaySubOrderNum": 1194990622,
+    "yesterdaySubPaidNum": 666673467
+  },
+  "message": "OK",
+  "code": 0
+}

@@ -1,0 +1,80 @@
+#todayMission-container{
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+
+.unfinished-div{
+	width: 190px;
+	height: 190px;
+	background: url(../../../img/tide/missionunfinished_bg.png) no-repeat center;
+	background-size: 190px;
+	margin: 0 auto;
+	margin-top: 44px;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	padding-top: 124px;
+}
+
+.finished-div{
+	width: 190px;
+	height: 190px;
+	background: url(../../../img/tide/missionfinished_bg.png) no-repeat center;
+	background-size: 190px;
+	margin: 0 auto;
+	margin-top: 20px;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	padding-top: 124px;
+}
+
+.button-div{
+	padding: 0 50px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+
+.button-div .button-item {
+	display: inline-block;
+	text-align: center;
+	
+}
+
+.btn-add-mission{
+	width: 60px;
+	height: 60px;
+	background: url(../../../img/tide/addIcon.png) no-repeat center;
+	background-size: 60px;
+	margin-bottom: 12px;
+}
+
+.btn-add-mission:active{
+	opacity: 0.5;
+}
+
+.txt-add-mission{
+	font-size: 14px;
+	color: #ff9600;
+}
+
+.btn-loginout{
+	width: 60px;
+	height: 60px;
+	background: url(../../../img/tide/loginOut.png) no-repeat center;
+	background-size: 60px;
+	margin-bottom: 12px;
+}
+
+.btn-loginout:active{
+	opacity: 0.5;
+}
+
+.txt-loginout{
+	font-size: 14px;
+	color: #fd472b;
+}
+

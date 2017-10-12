@@ -1,0 +1,33 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.row{
+    background-color:#fff;
+    height: 100%;
+}
+.row ul{
+    padding-left: 15px;
+}
+.row ul li{
+    list-style: none;
+    padding: 10px 0px 5px;
+    border-bottom:1px solid #f2f2f4;
+    color: #38373f;
+    position: relative;
+}
+.row ul li span{
+    color: #fe9500;
+    position: absolute;
+    top: 25px;
+    right: 15px;
+}
+.row ul li p{
+    margin:0px;
+    padding:0px;
+    line-height:1.2;
+}
+.row ul li p label{
+    margin-left:10px;
+    font-weight: normal;
+}

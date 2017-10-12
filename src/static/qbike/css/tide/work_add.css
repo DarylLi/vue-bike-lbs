@@ -1,0 +1,25 @@
+.list-panel{
+    margin:36px 30px;
+}
+.list-panel .btn{
+    width:64px;
+    height:26px;
+    line-height:26px;
+    color: #fff;
+    text-align: center;
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+}
+.list-panel .btn-add{
+    background-color: #ff9600;
+}
+.list-panel .btn-remove{
+    background-color: #fc472a;
+}
+.list-panel .btn-show{
+    background-color: #7dcc4f;
+}
+.list-panel table tr th a{
+    color: #fecca9;
+}
